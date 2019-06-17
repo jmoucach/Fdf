@@ -1,6 +1,0 @@
-fl : focal length or distance camera-screen
-Z  : distance camera-object
-
-
-
-perpective = fl / (fl + Z)
